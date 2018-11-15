@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Index.cshtml](./CS/ClientDevExpress/Views/Home/Index.cshtml)
+* **[_Layout.cshtml](./CS/ClientDevExpress/Views/Shared/_Layout.cshtml)**
+<!-- default file list end -->
 # How to add DevExpress scripts to an existing project has client libraries that use jQuery
 
 
