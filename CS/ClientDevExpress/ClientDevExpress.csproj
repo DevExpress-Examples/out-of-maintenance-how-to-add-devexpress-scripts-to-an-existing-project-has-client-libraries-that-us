@@ -178,6 +178,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\dx.light.css" />
+    <Content Include="Content\dx.common.css" />
     <Content Include="Content\jquery-ui.css" />
     <Content Include="Content\jquery-ui.min.css" />
     <Content Include="Global.asax" />

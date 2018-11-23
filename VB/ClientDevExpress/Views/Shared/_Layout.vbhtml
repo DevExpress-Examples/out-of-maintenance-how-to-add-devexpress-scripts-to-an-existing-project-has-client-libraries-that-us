@@ -7,6 +7,7 @@
 
     <link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
     <link href="@Url.Content("~/Content/dx.light.css")" rel="stylesheet" />
+    <link href="@Url.Content("~/Content/dx.common.css")" rel="stylesheet" />
     <script src="@Url.Content("~/Scripts/jquery-2.1.4.js")" type="text/javascript"></script>
     <script src="@Url.Content("~/Scripts/jquery.validate.js")"></script>
     <script src="@Url.Content("~/Scripts/jquery.validate.unobtrusive.js")"></script>
@@ -22,7 +23,6 @@
     New StyleSheet With {.ExtensionSuite = ExtensionSuite.GridView},
     New StyleSheet With {.ExtensionSuite = ExtensionSuite.PivotGrid},
     New StyleSheet With {.ExtensionSuite = ExtensionSuite.Chart},
-    New StyleSheet With {.ExtensionSuite = ExtensionSuite.Report},
     New StyleSheet With {.ExtensionSuite = ExtensionSuite.Scheduler},
     New StyleSheet With {.ExtensionSuite = ExtensionSuite.TreeList},
     New StyleSheet With {.ExtensionSuite = ExtensionSuite.RichEdit},
@@ -35,7 +35,6 @@
     New Script With {.ExtensionSuite = ExtensionSuite.PivotGrid},
     New Script With {.ExtensionSuite = ExtensionSuite.Editors},
     New Script With {.ExtensionSuite = ExtensionSuite.Chart},
-    New Script With {.ExtensionSuite = ExtensionSuite.Report},
     New Script With {.ExtensionSuite = ExtensionSuite.Scheduler},
     New Script With {.ExtensionSuite = ExtensionSuite.TreeList},
     New Script With {.ExtensionSuite = ExtensionSuite.RichEdit},
