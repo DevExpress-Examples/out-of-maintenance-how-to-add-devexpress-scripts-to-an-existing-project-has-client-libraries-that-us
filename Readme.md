@@ -6,7 +6,7 @@
 <!-- default file list end -->
 # How to add DevExpress scripts to an existing project has client libraries that use jQuery
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t272793)**
+**[[Run Online]](https://codecentral.devexpress.com/t272793/)**
 <!-- run online end -->
 
 
